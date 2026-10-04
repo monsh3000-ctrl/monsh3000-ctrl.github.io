@@ -1,2 +1,9 @@
-# monsh3000.github.io
-StudyLock — Android study companion: focus timer with per-subject music, AI quizzes &amp; flashcards from your notes, school and Google Drive sync, and a screen-time app blocker.
+# StudyLock site
+
+Official website files for the StudyLock Android app.
+
+- `index.html` — homepage
+- `privacy.html` — privacy policy (linked from the Play Store listing)
+- `app-ads.txt` — AdMob app authorization
+
+Live at: https://github.com/monsh3000-ctrl/monsh3000.github.io/
