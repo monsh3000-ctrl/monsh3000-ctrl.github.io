@@ -1,9 +1,10 @@
 # StudyLock site
 
-Official website files for the StudyLock Android app.
+Study • Focus • Achieve
 
-- `index.html` — homepage
-- `privacy.html` — privacy policy (linked from the Play Store listing)
-- `app-ads.txt` — AdMob app authorization
+StudyLock turns real study activity into earned screen time. Focus timer, quizzes and flashcards, school portal and Google Drive sync, and app blocking for deep work.
 
-Live at: https://github.com/monsh3000-ctrl/monsh3000.github.io/
+Support
+Email: monsh3000@gmail.com
+
+ privacy policy: https://legiflare.com/terms/9f21239f-3
